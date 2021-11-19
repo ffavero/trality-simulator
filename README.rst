@@ -32,16 +32,11 @@ See dca.py in the examples directory, it shows how to import the proper modules 
 Local Installation
 ==================
 
-Using poetry
-------------
-| ``$ pip install --user poetry``
-| ``$ git clone git@github.com:Cryptrality/trality-simulator.git``
-| ``$ cd trality-simulator``
-| ``$ poetry install``
-
 Using pip
 ---------
-Not possible yet. Section will be updated when package is on PyPI.
+| ``$ git clone git@github.com:Cryptrality/trality-simulator.git``
+| ``$ cd trality-simulator``
+| ``$ python -m pip install .``
 
 After Install
 -------------
