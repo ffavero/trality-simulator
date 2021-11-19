@@ -1,0 +1,5 @@
+version = "0.1.0"
+author = "IrrationalPi (ZephyZephyr#4672)"
+date = "19-11-2021"
+mail = ""
+web = ""

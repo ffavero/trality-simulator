@@ -2,7 +2,7 @@
 # TODO: Implement shell functions for all indicators in indicators.py
 
 from inspect import getmembers, isfunction
-import indicators
+from trality_simulator import indicators
 
 
 class Data:
